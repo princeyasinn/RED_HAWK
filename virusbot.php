@@ -1,8 +1,8 @@
 
  \ \   / (_)_ __ _   _ ___    
   \ \ / /| | '__| | | / __|     
-   \ V / | | |  | |_| \__ \      
-    \_/  |_|_|   \__,_|___/   (By Prince Yasin)
+   \ V / | | |  | |_| \__ \  
+    \_/  |_|_|   \__,_|___/   (By bthunds)
 
 Copy full text and send to victim
 
